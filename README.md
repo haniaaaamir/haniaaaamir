@@ -1,7 +1,6 @@
 ## 💻 Hi, I'm Hania!
 I enjoy finding creative solutions to problems and solving them using technology! My interests lie in web development (mainly frontend) and game development, but I always love learning about new tools and technologies I can add to my skillset. In my free time you might find me playing video games or cooking a new recipe for my family!
 
-## ⚡ About Me
 - 💡 Currently: Gaining more experience with Unity and C#
 - 🔥 Interested in: Web development, game development and data analytics!
 - 🎯 Goal: To build things that actually matter and make a difference
